@@ -37,6 +37,14 @@
         "21_2D_ARY.C": "cpp",
         "22_2D_ARY.C": "cpp",
         "21_ASSE_DIS.C": "cpp",
-        "21_ASCE_DESC.C": "cpp"
+        "21_ASCE_DESC.C": "cpp",
+        "19_ARRY_MAX_NUM.C": "cpp",
+        "25_LEN_STRING.C": "cpp",
+        "27_STRUCTURE.C": "cpp",
+        "28_STRUCT_5DATA.C": "cpp",
+        "STR_REV.C": "cpp",
+        "26_STR_REV_PARA.C": "cpp",
+        "23_ASCE_DESC.C": "cpp",
+        "24_2D_ARY.C": "cpp"
     }
 }
